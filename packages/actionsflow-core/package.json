@@ -39,7 +39,7 @@
     "@types/lodash.has": "^4.5.6",
     "@types/mime-types": "^2.1.0",
     "@types/resolve-global": "^1.0.0",
-    "@types/type-is": "^1.6.3",
+    "@types/type-is": "^1.6.6",
     "@types/xml2js": "^0.4.14",
     "axios": "^0.21.1",
     "axios-retry": "^3.9.1",
